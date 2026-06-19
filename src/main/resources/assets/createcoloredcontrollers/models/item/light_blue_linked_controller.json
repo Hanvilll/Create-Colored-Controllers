@@ -1,0 +1,6 @@
+{
+  "parent": "create:item/linked_controller/item",
+  "textures": {
+    "redstone_bridge": "createcoloredcontrollers:item/light_blue_linked_controller"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "hanvil.create.coloredcontrollers.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["LinkedControllerItemMixin", "LinkedControllerClientHandlerMixin", "LinkedControllerPacketBaseMixin", "ShapelessRecipeMixin", "LecternControllerBlockEntityMixin", "LecternControllerRendererMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

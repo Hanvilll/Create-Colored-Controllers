@@ -1,0 +1,7 @@
+{
+  "parent": "create:item/linked_controller/powered",
+  "textures": {
+    "redstone_bridge": "createcoloredcontrollers:item/purple_linked_controller_powered",
+    "particle": "createcoloredcontrollers:item/purple_linked_controller_powered"
+  }
+}

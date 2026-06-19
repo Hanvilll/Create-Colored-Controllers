@@ -1,0 +1,20 @@
+{
+  "itemGroup.createcoloredcontrollers.tab": "Controladores vinculados de colores",
+
+  "item.createcoloredcontrollers.white_linked_controller": "Controlador vinculado blanco",
+  "item.createcoloredcontrollers.light_gray_linked_controller": "Controlador vinculado gris claro",
+  "item.createcoloredcontrollers.gray_linked_controller": "Controlador vinculado gris",
+  "item.createcoloredcontrollers.black_linked_controller": "Controlador vinculado negro",
+  "item.createcoloredcontrollers.brown_linked_controller": "Controlador vinculado marrón",
+  "item.createcoloredcontrollers.red_linked_controller": "Controlador vinculado rojo",
+  "item.createcoloredcontrollers.orange_linked_controller": "Controlador vinculado naranja",
+  "item.createcoloredcontrollers.yellow_linked_controller": "Controlador vinculado amarillo",
+  "item.createcoloredcontrollers.lime_linked_controller": "Controlador vinculado lima",
+  "item.createcoloredcontrollers.green_linked_controller": "Controlador vinculado verde",
+  "item.createcoloredcontrollers.cyan_linked_controller": "Controlador vinculado cian",
+  "item.createcoloredcontrollers.light_blue_linked_controller": "Controlador vinculado celeste",
+  "item.createcoloredcontrollers.blue_linked_controller": "Controlador vinculado azul",
+  "item.createcoloredcontrollers.purple_linked_controller": "Controlador vinculado morado",
+  "item.createcoloredcontrollers.magenta_linked_controller": "Controlador vinculado magenta",
+  "item.createcoloredcontrollers.pink_linked_controller": "Controlador vinculado rosa"
+}

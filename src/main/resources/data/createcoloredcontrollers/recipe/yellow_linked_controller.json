@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "D P",
+    "SSS"
+  ],
+  "key": {
+    "P": {
+      "item": "create:redstone_link"
+    },
+    "S": {
+      "tag": "minecraft:wooden_buttons"
+    },
+    "D": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "createcoloredcontrollers:yellow_linked_controller"
+  }
+}

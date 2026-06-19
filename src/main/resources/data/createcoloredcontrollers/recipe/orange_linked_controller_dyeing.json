@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_dye"
+    },
+    [
+      { "item": "create:linked_controller" },
+      { "item": "createcoloredcontrollers:white_linked_controller" },
+      { "item": "createcoloredcontrollers:light_gray_linked_controller" },
+      { "item": "createcoloredcontrollers:gray_linked_controller" },
+      { "item": "createcoloredcontrollers:black_linked_controller" },
+      { "item": "createcoloredcontrollers:brown_linked_controller" },
+      { "item": "createcoloredcontrollers:red_linked_controller" },
+      { "item": "createcoloredcontrollers:yellow_linked_controller" },
+      { "item": "createcoloredcontrollers:lime_linked_controller" },
+      { "item": "createcoloredcontrollers:green_linked_controller" },
+      { "item": "createcoloredcontrollers:cyan_linked_controller" },
+      { "item": "createcoloredcontrollers:light_blue_linked_controller" },
+      { "item": "createcoloredcontrollers:blue_linked_controller" },
+      { "item": "createcoloredcontrollers:purple_linked_controller" },
+      { "item": "createcoloredcontrollers:magenta_linked_controller" },
+      { "item": "createcoloredcontrollers:pink_linked_controller" }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcoloredcontrollers:orange_linked_controller"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "itemGroup.createcoloredcontrollers.tab": "Farbige Frequenzfernbedienungen",
+
+  "item.createcoloredcontrollers.white_linked_controller": "Weiße Frequenzfernbedienung",
+  "item.createcoloredcontrollers.light_gray_linked_controller": "Hellgraue Frequenzfernbedienung",
+  "item.createcoloredcontrollers.gray_linked_controller": "Graue Frequenzfernbedienung",
+  "item.createcoloredcontrollers.black_linked_controller": "Schwarze Frequenzfernbedienung",
+  "item.createcoloredcontrollers.brown_linked_controller": "Braune Frequenzfernbedienung",
+  "item.createcoloredcontrollers.red_linked_controller": "Rote Frequenzfernbedienung",
+  "item.createcoloredcontrollers.orange_linked_controller": "Orange Frequenzfernbedienung",
+  "item.createcoloredcontrollers.yellow_linked_controller": "Gelbe Frequenzfernbedienung",
+  "item.createcoloredcontrollers.lime_linked_controller": "Hellgrüne Frequenzfernbedienung",
+  "item.createcoloredcontrollers.green_linked_controller": "Grüne Frequenzfernbedienung",
+  "item.createcoloredcontrollers.cyan_linked_controller": "Türkise Frequenzfernbedienung",
+  "item.createcoloredcontrollers.light_blue_linked_controller": "Hellblaue Frequenzfernbedienung",
+  "item.createcoloredcontrollers.blue_linked_controller": "Blaue Frequenzfernbedienung",
+  "item.createcoloredcontrollers.purple_linked_controller": "Violette Frequenzfernbedienung",
+  "item.createcoloredcontrollers.magenta_linked_controller": "Magenta Frequenzfernbedienung",
+  "item.createcoloredcontrollers.pink_linked_controller": "Rosa Frequenzfernbedienung"
+}

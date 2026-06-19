@@ -1,0 +1,23 @@
+{
+  "itemGroup.createcoloredcontrollers.tab": "Цветные контроллеры частот",
+
+  "item.createcoloredcontrollers.pmr_linked_controller": "Великий контроллер частот",
+  "item.createcoloredcontrollers.european_linked_controller": "Европейский контроллер частот",
+
+  "item.createcoloredcontrollers.white_linked_controller": "Белый контроллер частот",
+  "item.createcoloredcontrollers.light_gray_linked_controller": "Светло-серый контроллер частот",
+  "item.createcoloredcontrollers.gray_linked_controller": "Серый контроллер частот",
+  "item.createcoloredcontrollers.black_linked_controller": "Черный контроллер частот",
+  "item.createcoloredcontrollers.brown_linked_controller": "Коричневый контроллер частот",
+  "item.createcoloredcontrollers.red_linked_controller": "Красный контроллер частот",
+  "item.createcoloredcontrollers.orange_linked_controller": "Оранжевый контроллер частот",
+  "item.createcoloredcontrollers.yellow_linked_controller": "Желтый контроллер частот",
+  "item.createcoloredcontrollers.lime_linked_controller": "Лаймовый контроллер частот",
+  "item.createcoloredcontrollers.green_linked_controller": "Зеленый контроллер частот",
+  "item.createcoloredcontrollers.cyan_linked_controller": "Бирюзовый контроллер частот",
+  "item.createcoloredcontrollers.light_blue_linked_controller": "Голубой контроллер частот",
+  "item.createcoloredcontrollers.blue_linked_controller": "Синий контроллер частот",
+  "item.createcoloredcontrollers.purple_linked_controller": "Фиолетовый контроллер частот",
+  "item.createcoloredcontrollers.magenta_linked_controller": "Пурпурный контроллер частот",
+  "item.createcoloredcontrollers.pink_linked_controller": "Розовый контроллер частот"
+}
