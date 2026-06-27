@@ -2,7 +2,6 @@ package hanvil.create.coloredcontrollers.mixin;
 
 import com.simibubi.create.AllDataComponents;
 import com.simibubi.create.content.redstone.link.controller.LinkedControllerItem;
-import hanvil.create.coloredcontrollers.ColoredLinkedControllerItem;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.crafting.CraftingInput;
@@ -18,7 +17,7 @@ public class ShapelessRecipeMixin {
     private void copyControllerComponents(CraftingInput input, HolderLookup.Provider registries, CallbackInfoReturnable<ItemStack> cir) {
         ItemStack result = cir.getReturnValue();
 
-        if (result.getItem() instanceof ColoredLinkedControllerItem) {
+        if (result.getItem() instanceof LinkedControllerItem) {
             for (int i = 0; i < input.size(); i++) {
                 ItemStack ingredient = input.getItem(i);
 

@@ -3,17 +3,13 @@ loaderVersion="${loader_version_range}"
 license="${mod_license}"
 
 [[mods]]
-
 modId="${mod_id}"
-
 version="${mod_version}"
-
 displayName="${mod_name}"
-
 authors="Hanvil"
-
 logoFile = "icon.png"
 
+updateJSONURL="https://raw.githubusercontent.com/Hanvilll/Create-Colored-Controllers/refs/heads/main/update.json"
 
 description='''
 An addon for the Create that adds colored linked controllers
@@ -39,6 +35,6 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]]
     modId="create"
     type="required"
-    versionRange="[6.0.10,)"
+    versionRange="[6.0.8,)"
     ordering="AFTER"
     side="BOTH"

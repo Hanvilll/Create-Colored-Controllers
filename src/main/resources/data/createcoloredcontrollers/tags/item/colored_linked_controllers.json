@@ -1,0 +1,21 @@
+{
+  "values":
+  [
+    "createcoloredcontrollers:white_linked_controller",
+    "createcoloredcontrollers:light_gray_linked_controller",
+    "createcoloredcontrollers:gray_linked_controller",
+    "createcoloredcontrollers:black_linked_controller",
+    "createcoloredcontrollers:brown_linked_controller",
+    "createcoloredcontrollers:red_linked_controller",
+    "createcoloredcontrollers:orange_linked_controller",
+    "createcoloredcontrollers:yellow_linked_controller",
+    "createcoloredcontrollers:lime_linked_controller",
+    "createcoloredcontrollers:green_linked_controller",
+    "createcoloredcontrollers:cyan_linked_controller",
+    "createcoloredcontrollers:light_blue_linked_controller",
+    "createcoloredcontrollers:blue_linked_controller",
+    "createcoloredcontrollers:purple_linked_controller",
+    "createcoloredcontrollers:magenta_linked_controller",
+    "createcoloredcontrollers:pink_linked_controller"
+  ]
+}

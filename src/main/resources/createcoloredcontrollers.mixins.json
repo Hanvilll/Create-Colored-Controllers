@@ -2,7 +2,7 @@
   "required": true,
   "package": "hanvil.create.coloredcontrollers.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": ["LinkedControllerItemMixin", "LinkedControllerClientHandlerMixin", "LinkedControllerPacketBaseMixin", "ShapelessRecipeMixin", "LecternControllerBlockEntityMixin", "LecternControllerRendererMixin"],
+  "mixins": ["LinkedControllerItemMixin", "LinkedControllerClientHandlerMixin", "LinkedControllerPacketBaseMixin", "ShapelessRecipeMixin", "LecternControllerBlockEntityMixin", "LecternControllerRendererMixin", "FanProcessingMixin"],
   "injectors": {
     "defaultRequire": 1
   },

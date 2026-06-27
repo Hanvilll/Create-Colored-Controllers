@@ -26,6 +26,9 @@ repositories {
     maven {
         url = "https://maven.createmod.net"
     }
+    maven {
+        url = "https://api.modrinth.com/maven"
+    }
 }
 
 base {
@@ -47,7 +50,7 @@ neoForge {
             client()
 
             dependencies {
-                runtimeOnly "curse.maven:create-328085:7963363"
+                runtimeOnly "maven.modrinth:LNytGWDc:88L641Un" // create 6.0.8
             }
 
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
@@ -58,7 +61,7 @@ neoForge {
             programArgument '--nogui'
 
             dependencies {
-                runtimeOnly "curse.maven:create-328085:7963363"
+                runtimeOnly "maven.modrinth:LNytGWDc:88L641Un" // create 6.0.8
             }
 
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
@@ -91,7 +94,7 @@ configurations {
 }
 
 dependencies {
-    implementation "curse.maven:create-328085:7963363"
+    implementation "maven.modrinth:LNytGWDc:88L641Un" // create 6.0.8
     implementation "dev.engine-room.flywheel:flywheel-neoforge-1.21.1:1.0.6"
     implementation "net.createmod.ponder:ponder-neoforge:$ponder_version+mc$minecraft_version"
 }
