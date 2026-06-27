@@ -1,0 +1,11 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {"tag": "createcoloredcontrollers:colored_linked_controllers"}
+  ],
+  "results": [
+    {
+      "id": "create:linked_controller"
+    }
+  ]
+}

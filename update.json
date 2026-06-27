@@ -1,0 +1,11 @@
+{
+  "homepage": "https://modrinth.com/mod/create-colored-controllers",
+  "promoted": {
+    "1.21.1-recommended": "1.1.0",
+    "1.21.1-latest": "1.1.0"
+  },
+  "1.21.1": {
+    "1.0.0": "Initial release",
+    "1.1.0": "Added water cleaning recipes, Create splashing support and lowered Create dependency to 6.0.8"
+  }
+}
